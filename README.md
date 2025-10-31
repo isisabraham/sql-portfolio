@@ -1,5 +1,3 @@
-# sql-portfolio
-
 # SQL Portfolio – ContosoRetailDW (SQL Server)
 
 **Summary:** This repo showcases SQL using ContosoRetailDW sample database. Projects include window functions, CTEs, `GROUPING SETS` reporting, reusable views, indexing, and before/after performance checks. 
